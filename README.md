@@ -22,7 +22,7 @@ If you don't have it run:
 npm install -g @sanity/cli
 ```
 
-You need to download bun, that is currently today available for macOS and Linux(Octomber 4, 2023):
+You need to download bun, that is currently today available for macOS and Linux(October 4, 2023):
 ```
 curl -fsSL https://bun.sh/install | bash
 ```
