@@ -112,10 +112,6 @@ If you have questions, encounter issues, or want to get involved in the developm
   <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=twitter" alt="twitter" />
 </a>
 <br>
-<a href="https://twitter.com/ZukoHeiwa" target="blank">
-  <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=youtube" alt="youtube" />
-</a>
-<br>
 <a href="https://github.com/ZukoHeiwa" target="blank">
   <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=github" alt="github" />
 </a>
